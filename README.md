@@ -1,2 +1,2 @@
 # odin-recipes
-New website project for The Odin Project course
+s is the first of many project I am creating in The Odin Project course.
